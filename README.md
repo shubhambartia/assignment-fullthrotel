@@ -1,3 +1,10 @@
+To run this project locally just clone this to your local repository and run this command:
+## npm run dev (or) yarn dev
+
+This dev is divided into two part concurrently:
+### first, It run the react client file.
+### second, It run the JSON MOCK API file.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
