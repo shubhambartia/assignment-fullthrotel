@@ -3,7 +3,7 @@ To run this project locally just clone this to your local repository and run thi
 
 This dev is divided into two part concurrently:
 ### first, It run the react client file.
-### second, It run the JSON MOCK API file.
+### second, It run the JSON MOCK API file. ( locally running on port: localhost:3004 )
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
